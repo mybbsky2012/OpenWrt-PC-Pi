@@ -1,4 +1,4 @@
-[![Build x86/64 openwrt](https://github.com/mybbsky2012/OpenWrt-PC-Pi/actions/workflows/x86-64.yml/badge.svg?branch=main)](https://github.com/mybbsky2012/OpenWrt-PC-Pi/actions/workflows/x86-64.yml)
+[![Build x86/64 openwrt](https://github.com/mybbsky2012/OpenWrt-PC-Pi/actions/workflows/x86-64.yml/badge.svg?branch=main)](https://github.com/mybbsky2012/OpenWrt-PC-Pi/actions/workflows/x86-64.yml)[![Build bcm27xx/bcm2711 openwrt](https://github.com/mybbsky2012/OpenWrt-PC-Pi/actions/workflows/bcm27xx-bcm2711.yml/badge.svg?branch=main)](https://github.com/mybbsky2012/OpenWrt-PC-Pi/actions/workflows/bcm27xx-bcm2711.yml)
 ## 项目介绍
 
 1. 提供适配于 树莓派全系、Rockchip 平台、ipq40xx 平台以及 x86 平台设备的 OpenWrt 固件
